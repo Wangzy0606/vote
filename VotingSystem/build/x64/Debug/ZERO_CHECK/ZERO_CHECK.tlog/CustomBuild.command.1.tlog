@@ -1,0 +1,10 @@
+^C:\USERS\34418\DESKTOP\2 СМЕСТР\ПРОГРММИРОВАНИЕ\LAB 8(2)\VOTINGSYSTEM\BUILD\CMAKEFILES\D1C942F4D439297038BB024C95FC8934\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem" "-BC:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem/build/VotingSystem.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

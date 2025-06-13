@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\34418\Desktop\2 сместр\прогрммирование\lab 8(2)\VotingSystem\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\34418\Desktop\2 сместр\прогрммирование\lab 8(2)\VotingSystem\vote.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\34418\Desktop\2 сместр\прогрммирование\lab 8(2)\VotingSystem\hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\34418\Desktop\2 сместр\прогрммирование\lab 8(2)\VotingSystem\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BA1D65AB-3D6F-35FB-8E1B-8D573CCE155A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

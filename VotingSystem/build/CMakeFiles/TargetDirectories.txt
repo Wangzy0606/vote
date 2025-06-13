@@ -1,0 +1,3 @@
+C:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem/build/CMakeFiles/VotingSystem.dir
+C:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/34418/Desktop/2 сместр/прогрммирование/lab 8(2)/VotingSystem/build/CMakeFiles/ZERO_CHECK.dir
